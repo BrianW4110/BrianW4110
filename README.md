@@ -1,7 +1,7 @@
-Hello 👋! My name is Rodz Amor
+Hello 👋! My name is Brian Wong
 ==========================
 
-UMD Computer Science Student
+UMD Computer Engineer Student
 ----------------------------
 
 I am a diligent and innovative student ready to work and learn in a professional environment.
